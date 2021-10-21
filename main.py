@@ -29,6 +29,8 @@ PROGRAMS
 RESEARCH
 ADMISSIONS 
 PLACEMENTS
+THE DELHI PUBLIC SCHOOL, AMRAVATI has the firm belief that children are valuable assets for our country and we need to invest in their future adequately; invest not only monetarily but investment in terms of quality education, good habits and better understanding of the challenges coming up in the 21st century. This is the premise on which Delhi Public School, Amravati has been formed .
+Motto : The Motto of DPS, Amravati is ‘Service Before Self’and in the monogram is a hand holding a lighted torch. The responsibility of enlightening the world lies in the hands of the students of today. DPS alumni all over the world are leaders in their chosen profession who dps@dpssociety.com dps@dps.org have carved a niche in the society.
 CONTACT US
 Contact UsHome Contact Us
  Contact Us Back
