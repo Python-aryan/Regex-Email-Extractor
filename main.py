@@ -2,15 +2,6 @@
 
 print("Welcome To Exerise 11\n"
       "Email Collector\n")
-# strin =
-
-
-
-# Email Collector
-# email1
-# email2
-# email3
-
 str = """
 
 Email:enquiry@alliance.edu.in   Helpline: +91 80 3093 8100 / 8200 / 4619 9100
