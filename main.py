@@ -67,52 +67,6 @@ Office of Registrar (Examination & Evaluation)
  : edu.verify@alliance.edu.in
  : +91 80 3093 8100 / 8200 | +91 80 4619 9100
 
- Contacts Info
- ALLIANCE UNIVERSITY
- Central Campus
-Chikkahagade Cross, Chandapura - Anekal Main Road, Anekal
-Bengaluru – 562 106, Karnataka,   India. [ Get Route Map ]
-+91 80 3093 8100/8200/4619 9100 | Fax: +91 80 4619 9099
-E-mail : enquiry@alliance.edu.in
-
- Office of Admissions
-UG: +91 9620009825 | 91084 43123 | 91084 42143 | 98806 19618
-PG: +91 98860 02500 | 99002 29974 | 90083 16363
-
- City Campus 1
-19th Cross, 7th Main, BTM 2nd Stage, N.S. Palya
-Bengaluru – 560 076, Karnataka,   India. [ Get Route Map ]
-Tel.: +91 80 26786020 / 21 , 26789749
-
- City Campus 2
-2nd Cross, 36th Main, Dollars Scheme, BTM 1st Stage
-Bengaluru – 560 068, Karnataka,   India. [ Get Route Map ]
-Tel.: +91 80 26681444 / 4372 | Fax: +91 80 26782048
-
- CONTACT INFO
- Contact Us
- Enquiry
- Feedback
- Get Route from Address
-Quick Course Finder
-
-
-Find Courses
- SCHOOLS | COLLEGES
- Alliance School of Business
- Alliance College of Engineering and Design
- Alliance School of Law
- Alliance Ascent College
- Planned Academic Units
-International Partners
-
-Antwerp Management School
-Antwerp Management School
-Belgium
-Royal Roads University
-Royal Roads University
-Canada
-Beijing Institute of Technology
 Beijing Institute of Technology
 China
 Nanjing University of Aeronautics and Astronautics
@@ -147,42 +101,7 @@ Berlin School of Economics and Law
 Germany
 European Business School
 European Business School
-Germany
-University of Applied Sciences
-University of Applied Sciences
-Germany
-Duisenberg School of Finance
-Duisenberg School of Finance
-The Netherlands
-Maastricht School of Management
-Maastricht School of Management
-The Netherlands
-Russian Presidential Academy of National Economy and Public Admi. (RANEPA)
-Russian Presidential Academy of National Economy and Public Admi. (RANEPA)
-Russia
-Togliatti Academy of Management
-Togliatti Academy of Management
-Russia
-Edinburgh Napier University
-Edinburgh Napier University
-UK
-Federation of Schools (FEDE)
-Federation of Schools (FEDE)
-Switzerland
-Swansea Metropolitan University
-Swansea Metropolitan University
-UK
-University of Bedfordshire
-University of Bedfordshire
-UK
-University of Chester
-University of Chester
-UK
-University of Dundee
-University of Dundee
-UK
-Fairleigh Dickinson University
-Fairleigh Dickinson University
+
 USA
 Georgia State University
 Georgia State University
